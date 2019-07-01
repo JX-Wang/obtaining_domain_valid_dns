@@ -1,0 +1,21 @@
+2019-07-01 17:42:35,502 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_valid_dns_asyn/tld_ns/download_root_zone.py[line:48] - INFO: 开始下载Root Zone File
+2019-07-01 17:42:35,502 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_valid_dns_asyn/tld_ns/download_root_zone.py[line:48] - INFO: 开始下载Root Zone File
+2019-07-01 17:42:35,502 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_valid_dns_asyn/tld_ns/download_root_zone.py[line:48] - INFO: 开始下载Root Zone File
+2019-07-01 17:42:48,271 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_valid_dns_asyn/tld_ns/download_root_zone.py[line:62] - INFO: 结束下载
+2019-07-01 17:42:48,271 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_valid_dns_asyn/tld_ns/download_root_zone.py[line:62] - INFO: 结束下载
+2019-07-01 17:42:48,271 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_valid_dns_asyn/tld_ns/download_root_zone.py[line:62] - INFO: 结束下载
+2019-07-01 17:43:38,301 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_valid_dns_asyn/tld_ns/obtaining_tlds_ns_from_zone.py[line:127] - INFO: 开始从根区文件中提取根和顶级域名的权威信息
+2019-07-01 17:43:38,301 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_valid_dns_asyn/tld_ns/obtaining_tlds_ns_from_zone.py[line:127] - INFO: 开始从根区文件中提取根和顶级域名的权威信息
+2019-07-01 17:43:38,301 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_valid_dns_asyn/tld_ns/obtaining_tlds_ns_from_zone.py[line:127] - INFO: 开始从根区文件中提取根和顶级域名的权威信息
+2019-07-01 17:44:10,523 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_valid_dns_asyn/tld_ns/obtaining_tlds_ns_from_zone.py[line:89] - WARNING: 文件处于编辑状态，等待文件完成编辑中...
+2019-07-01 17:44:10,523 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_valid_dns_asyn/tld_ns/obtaining_tlds_ns_from_zone.py[line:89] - WARNING: 文件处于编辑状态，等待文件完成编辑中...
+2019-07-01 17:44:10,523 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_valid_dns_asyn/tld_ns/obtaining_tlds_ns_from_zone.py[line:89] - WARNING: 文件处于编辑状态，等待文件完成编辑中...
+2019-07-01 17:44:52,637 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_valid_dns_asyn/tld_ns/obtaining_tlds_ns_from_zone.py[line:89] - WARNING: 文件处于编辑状态，等待文件完成编辑中...
+2019-07-01 17:44:52,637 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_valid_dns_asyn/tld_ns/obtaining_tlds_ns_from_zone.py[line:89] - WARNING: 文件处于编辑状态，等待文件完成编辑中...
+2019-07-01 17:44:52,637 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_valid_dns_asyn/tld_ns/obtaining_tlds_ns_from_zone.py[line:89] - WARNING: 文件处于编辑状态，等待文件完成编辑中...
+2019-07-01 17:45:35,329 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_valid_dns_asyn/tld_ns/extract_tlds_from_zone.py[line:51] - INFO: 开始从根区文件中提取顶级域名
+2019-07-01 17:45:35,329 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_valid_dns_asyn/tld_ns/extract_tlds_from_zone.py[line:51] - INFO: 开始从根区文件中提取顶级域名
+2019-07-01 17:45:35,329 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_valid_dns_asyn/tld_ns/extract_tlds_from_zone.py[line:51] - INFO: 开始从根区文件中提取顶级域名
+2019-07-01 17:46:05,750 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_valid_dns_asyn/tld_ns/extract_tlds_from_zone.py[line:59] - INFO: 结束从根区文件中提取顶级域名
+2019-07-01 17:46:05,750 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_valid_dns_asyn/tld_ns/extract_tlds_from_zone.py[line:59] - INFO: 结束从根区文件中提取顶级域名
+2019-07-01 17:46:05,750 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_valid_dns_asyn/tld_ns/extract_tlds_from_zone.py[line:59] - INFO: 结束从根区文件中提取顶级域名

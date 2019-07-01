@@ -1,0 +1,20 @@
+Traceback (most recent call last):
+  File "../domain_ns_http/insert_domain_to_db.py", line 12, in <module>
+    from db_manage.data_base import MySQL
+  File "../db_manage/data_base.py", line 4, in <module>
+    import MySQLdb
+  File "/Library/Python/2.7/site-packages/MySQLdb/__init__.py", line 19, in <module>
+    import _mysql
+ImportError: dlopen(/Library/Python/2.7/site-packages/_mysql.so, 2): Library not loaded: /usr/local/opt/mysql/lib/libmysqlclient.20.dylib
+  Referenced from: /Library/Python/2.7/site-packages/_mysql.so
+  Reason: image not found
+Traceback (most recent call last):
+  File "../domain_ns_http/insert_domain_to_db.py", line 12, in <module>
+    from db_manage.data_base import MySQL
+  File "../db_manage/data_base.py", line 4, in <module>
+    import MySQLdb
+  File "/Library/Python/2.7/site-packages/MySQLdb/__init__.py", line 19, in <module>
+    import _mysql
+ImportError: dlopen(/Library/Python/2.7/site-packages/_mysql.so, 2): Library not loaded: /usr/local/opt/mysql/lib/libmysqlclient.20.dylib
+  Referenced from: /Library/Python/2.7/site-packages/_mysql.so
+  Reason: image not found

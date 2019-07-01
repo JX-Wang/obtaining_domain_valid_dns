@@ -1,0 +1,273 @@
+2019-07-01 11:19:26,686 - obtaining_domain_ns_realtime.py[line:513] - INFO: 开始解析域名的NS记录,线程数量为:50
+2019-07-01 11:19:31,062 - obtaining_domain_ns_realtime.py[line:513] - INFO: 开始解析域名的NS记录,线程数量为:50
+2019-07-01 11:29:11,222 - obtaining_domain_ns_realtime.py[line:513] - INFO: 开始解析域名的NS记录,线程数量为:50
+2019-07-01 11:30:14,168 - obtaining_domain_ns_realtime.py[line:514] - INFO: 开始解析域名的NS记录,线程数量为:50
+2019-07-01 11:30:14,237 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 2, 剩余任务: 3
+2019-07-01 11:30:14,238 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 3, 剩余任务: 3
+2019-07-01 11:30:14,238 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 4, 剩余任务: 1
+2019-07-01 11:30:14,849 - obtaining_domain_ns_realtime.py[line:531] - INFO: 更新数据库...
+2019-07-01 11:30:15,038 - obtaining_domain_ns_realtime.py[line:533] - INFO: 更新数据库完成
+2019-07-01 11:30:15,039 - obtaining_domain_ns_realtime.py[line:535] - INFO: 存入文件...
+2019-07-01 11:30:15,039 - obtaining_domain_ns_realtime.py[line:537] - INFO: 存入文件完成
+2019-07-01 11:30:52,316 - obtaining_domain_ns_realtime.py[line:515] - INFO: 开始解析域名的NS记录,线程数量为:50
+2019-07-01 11:30:52,387 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 2, 剩余任务: 3
+2019-07-01 11:30:52,387 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 3, 剩余任务: 3
+2019-07-01 11:30:52,388 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 5, 剩余任务: 2
+2019-07-01 11:30:52,388 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 5, 剩余任务: 1
+2019-07-01 11:30:55,943 - obtaining_domain_ns_realtime.py[line:532] - INFO: 更新数据库...
+2019-07-01 11:30:56,075 - obtaining_domain_ns_realtime.py[line:534] - INFO: 更新数据库完成
+2019-07-01 11:30:56,075 - obtaining_domain_ns_realtime.py[line:536] - INFO: 存入文件...
+2019-07-01 11:30:56,076 - obtaining_domain_ns_realtime.py[line:538] - INFO: 存入文件完成
+2019-07-01 11:31:21,324 - obtaining_domain_ns_realtime.py[line:516] - INFO: 开始解析域名的NS记录,线程数量为:50
+2019-07-01 11:31:21,394 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 2, 剩余任务: 3
+2019-07-01 11:31:21,394 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 3, 剩余任务: 3
+2019-07-01 11:31:21,395 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 4, 剩余任务: 2
+2019-07-01 11:31:21,395 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 5, 剩余任务: 1
+2019-07-01 11:31:24,755 - obtaining_domain_ns_realtime.py[line:533] - INFO: 更新数据库...
+2019-07-01 11:31:24,837 - obtaining_domain_ns_realtime.py[line:535] - INFO: 更新数据库完成
+2019-07-01 11:31:24,837 - obtaining_domain_ns_realtime.py[line:537] - INFO: 存入文件...
+2019-07-01 11:31:24,838 - obtaining_domain_ns_realtime.py[line:539] - INFO: 存入文件完成
+2019-07-01 11:32:23,066 - obtaining_domain_ns_realtime.py[line:517] - INFO: 开始解析域名的NS记录,线程数量为:50
+2019-07-01 11:32:23,156 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 2, 剩余任务: 3
+2019-07-01 11:32:23,157 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 5, 剩余任务: 3
+2019-07-01 11:32:23,158 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 6, 剩余任务: 1
+2019-07-01 11:32:23,158 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 7, 剩余任务: 1
+2019-07-01 11:32:23,159 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 7, 剩余任务: 0
+2019-07-01 11:32:29,531 - obtaining_domain_ns_realtime.py[line:534] - INFO: 更新数据库...
+2019-07-01 11:32:29,670 - obtaining_domain_ns_realtime.py[line:536] - INFO: 更新数据库完成
+2019-07-01 11:32:29,670 - obtaining_domain_ns_realtime.py[line:538] - INFO: 存入文件...
+2019-07-01 11:32:29,671 - obtaining_domain_ns_realtime.py[line:540] - INFO: 存入文件完成
+2019-07-01 11:32:55,917 - obtaining_domain_ns_realtime.py[line:517] - INFO: 开始解析域名的NS记录,线程数量为:50
+2019-07-01 11:32:55,982 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 2, 剩余任务: 3
+2019-07-01 11:32:55,982 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 3, 剩余任务: 3
+2019-07-01 11:32:55,983 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 5, 剩余任务: 1
+2019-07-01 11:32:55,987 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 5, 剩余任务: 1
+2019-07-01 11:32:56,624 - obtaining_domain_ns_realtime.py[line:534] - INFO: 更新数据库...
+2019-07-01 11:32:56,850 - obtaining_domain_ns_realtime.py[line:536] - INFO: 更新数据库完成
+2019-07-01 11:32:56,851 - obtaining_domain_ns_realtime.py[line:538] - INFO: 存入文件...
+2019-07-01 11:32:56,852 - obtaining_domain_ns_realtime.py[line:540] - INFO: 存入文件完成
+2019-07-01 11:34:24,628 - obtaining_domain_ns_realtime.py[line:517] - INFO: 开始解析域名的NS记录,线程数量为:50
+2019-07-01 11:34:24,699 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 2, 剩余任务: 3
+2019-07-01 11:34:24,703 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 3, 剩余任务: 2
+2019-07-01 11:34:24,704 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 5, 剩余任务: 1
+2019-07-01 11:34:28,122 - obtaining_domain_ns_realtime.py[line:534] - INFO: 更新数据库...
+2019-07-01 11:34:28,223 - obtaining_domain_ns_realtime.py[line:536] - INFO: 更新数据库完成
+2019-07-01 11:34:28,223 - obtaining_domain_ns_realtime.py[line:538] - INFO: 存入文件...
+2019-07-01 11:34:28,223 - obtaining_domain_ns_realtime.py[line:540] - INFO: 存入文件完成
+2019-07-01 11:34:28,246 - obtaining_domain_ns_realtime.py[line:547] - ERROR: 实时探测域名有效NS，确认探测失败：<tornado.concurrent.Future object at 0x10d83c050>
+2019-07-01 11:34:28,248 - obtaining_domain_ns_realtime.py[line:547] - ERROR: 实时探测域名有效NS，确认探测失败：<tornado.concurrent.Future object at 0x10d8c7e90>
+2019-07-01 11:34:28,250 - obtaining_domain_ns_realtime.py[line:547] - ERROR: 实时探测域名有效NS，确认探测失败：<tornado.concurrent.Future object at 0x10d83c050>
+2019-07-01 11:34:28,250 - obtaining_domain_ns_realtime.py[line:549] - INFO: 结束解析域名的NS记录,线程数量为:50
+2019-07-01 11:34:37,804 - obtaining_domain_ns_realtime.py[line:517] - INFO: 开始解析域名的NS记录,线程数量为:50
+2019-07-01 11:34:37,873 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 2, 剩余任务: 3
+2019-07-01 11:34:37,873 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 3, 剩余任务: 3
+2019-07-01 11:34:37,874 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 4, 剩余任务: 2
+2019-07-01 11:34:37,874 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 6, 剩余任务: 1
+2019-07-01 11:34:37,875 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 6, 剩余任务: 1
+2019-07-01 11:34:44,309 - obtaining_domain_ns_realtime.py[line:534] - INFO: 更新数据库...
+2019-07-01 11:34:44,469 - obtaining_domain_ns_realtime.py[line:536] - INFO: 更新数据库完成
+2019-07-01 11:34:44,469 - obtaining_domain_ns_realtime.py[line:538] - INFO: 存入文件...
+2019-07-01 11:34:44,470 - obtaining_domain_ns_realtime.py[line:540] - INFO: 存入文件完成
+2019-07-01 11:34:44,494 - obtaining_domain_ns_realtime.py[line:547] - ERROR: 实时探测域名有效NS，确认探测失败：<tornado.concurrent.Future object at 0x10508cf90>
+2019-07-01 11:34:44,496 - obtaining_domain_ns_realtime.py[line:547] - ERROR: 实时探测域名有效NS，确认探测失败：<tornado.concurrent.Future object at 0x1052ae290>
+2019-07-01 11:34:44,497 - obtaining_domain_ns_realtime.py[line:547] - ERROR: 实时探测域名有效NS，确认探测失败：<tornado.concurrent.Future object at 0x10508cf90>
+2019-07-01 11:34:44,497 - obtaining_domain_ns_realtime.py[line:549] - INFO: 结束解析域名的NS记录,线程数量为:50
+2019-07-01 11:35:36,795 - obtaining_domain_ns_realtime.py[line:517] - INFO: 开始解析域名的NS记录,线程数量为:50
+2019-07-01 11:35:36,859 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 2, 剩余任务: 3
+2019-07-01 11:35:36,859 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 3, 剩余任务: 2
+2019-07-01 11:35:36,863 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 5, 剩余任务: 1
+2019-07-01 11:35:43,224 - obtaining_domain_ns_realtime.py[line:534] - INFO: 更新数据库...
+2019-07-01 11:35:43,303 - obtaining_domain_ns_realtime.py[line:536] - INFO: 更新数据库完成
+2019-07-01 11:35:43,303 - obtaining_domain_ns_realtime.py[line:538] - INFO: 存入文件...
+2019-07-01 11:35:43,304 - obtaining_domain_ns_realtime.py[line:540] - INFO: 存入文件完成
+2019-07-01 11:35:43,327 - obtaining_domain_ns_realtime.py[line:547] - ERROR: 实时探测域名有效NS，确认探测失败：<tornado.concurrent.Future object at 0x10d304ed0>
+2019-07-01 11:35:43,329 - obtaining_domain_ns_realtime.py[line:547] - ERROR: 实时探测域名有效NS，确认探测失败：<tornado.concurrent.Future object at 0x10d3ee790>
+2019-07-01 11:35:43,330 - obtaining_domain_ns_realtime.py[line:547] - ERROR: 实时探测域名有效NS，确认探测失败：<tornado.concurrent.Future object at 0x10d319610>
+2019-07-01 11:35:43,330 - obtaining_domain_ns_realtime.py[line:549] - INFO: 结束解析域名的NS记录,线程数量为:50
+2019-07-01 11:37:12,590 - obtaining_domain_ns_realtime.py[line:517] - INFO: 开始解析域名的NS记录,线程数量为:50
+2019-07-01 11:37:12,681 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 2, 剩余任务: 3
+2019-07-01 11:37:12,682 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 3, 剩余任务: 2
+2019-07-01 11:37:12,682 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 4, 剩余任务: 1
+2019-07-01 11:37:12,683 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 6, 剩余任务: 0
+2019-07-01 11:37:13,445 - obtaining_domain_ns_realtime.py[line:534] - INFO: 更新数据库...
+2019-07-01 11:37:13,599 - obtaining_domain_ns_realtime.py[line:536] - INFO: 更新数据库完成
+2019-07-01 11:37:13,599 - obtaining_domain_ns_realtime.py[line:538] - INFO: 存入文件...
+2019-07-01 11:37:13,600 - obtaining_domain_ns_realtime.py[line:540] - INFO: 存入文件完成
+2019-07-01 11:37:13,623 - obtaining_domain_ns_realtime.py[line:547] - ERROR: 实时探测域名有效NS，确认探测失败：<tornado.concurrent.Future object at 0x105271f50>
+2019-07-01 11:37:13,625 - obtaining_domain_ns_realtime.py[line:547] - ERROR: 实时探测域名有效NS，确认探测失败：<tornado.concurrent.Future object at 0x1053449d0>
+2019-07-01 11:37:13,626 - obtaining_domain_ns_realtime.py[line:547] - ERROR: 实时探测域名有效NS，确认探测失败：<tornado.concurrent.Future object at 0x105337d10>
+2019-07-01 11:37:13,626 - obtaining_domain_ns_realtime.py[line:549] - INFO: 结束解析域名的NS记录,线程数量为:50
+2019-07-01 11:39:23,615 - obtaining_domain_ns_realtime.py[line:517] - INFO: 开始解析域名的NS记录,线程数量为:50
+2019-07-01 11:39:23,682 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 2, 剩余任务: 3
+2019-07-01 11:39:23,683 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 4, 剩余任务: 2
+2019-07-01 11:39:23,683 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 5, 剩余任务: 2
+2019-07-01 11:39:23,684 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 5, 剩余任务: 2
+2019-07-01 11:39:23,687 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 8, 剩余任务: 1
+2019-07-01 11:39:23,688 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 9, 剩余任务: 0
+2019-07-01 11:39:27,276 - obtaining_domain_ns_realtime.py[line:534] - INFO: 更新数据库...
+2019-07-01 11:39:27,363 - obtaining_domain_ns_realtime.py[line:536] - INFO: 更新数据库完成
+2019-07-01 11:39:27,363 - obtaining_domain_ns_realtime.py[line:538] - INFO: 存入文件...
+2019-07-01 11:39:27,364 - obtaining_domain_ns_realtime.py[line:540] - INFO: 存入文件完成
+2019-07-01 11:39:27,390 - obtaining_domain_ns_realtime.py[line:547] - ERROR: 实时探测域名有效NS，确认探测失败：<tornado.concurrent.Future object at 0x10a5c4fd0>
+2019-07-01 11:39:27,391 - obtaining_domain_ns_realtime.py[line:547] - ERROR: 实时探测域名有效NS，确认探测失败：<tornado.concurrent.Future object at 0x10a6aaa50>
+2019-07-01 11:39:27,392 - obtaining_domain_ns_realtime.py[line:547] - ERROR: 实时探测域名有效NS，确认探测失败：<tornado.concurrent.Future object at 0x10a6aa550>
+2019-07-01 11:39:27,392 - obtaining_domain_ns_realtime.py[line:549] - INFO: 结束解析域名的NS记录,线程数量为:50
+2019-07-01 11:40:43,526 - obtaining_domain_ns_realtime.py[line:517] - INFO: 开始解析域名的NS记录,线程数量为:50
+2019-07-01 11:40:43,598 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 2, 剩余任务: 3
+2019-07-01 11:40:43,598 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 3, 剩余任务: 3
+2019-07-01 11:40:43,599 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 4, 剩余任务: 3
+2019-07-01 11:40:44,339 - obtaining_domain_ns_realtime.py[line:534] - INFO: 更新数据库...
+2019-07-01 11:40:44,420 - obtaining_domain_ns_realtime.py[line:536] - INFO: 更新数据库完成
+2019-07-01 11:40:44,420 - obtaining_domain_ns_realtime.py[line:538] - INFO: 存入文件...
+2019-07-01 11:40:44,421 - obtaining_domain_ns_realtime.py[line:540] - INFO: 存入文件完成
+2019-07-01 11:40:44,631 - obtaining_domain_ns_realtime.py[line:547] - ERROR: 实时探测域名有效NS，确认探测失败：<tornado.concurrent.Future object at 0x107c8ffd0>
+2019-07-01 11:40:44,806 - obtaining_domain_ns_realtime.py[line:547] - ERROR: 实时探测域名有效NS，确认探测失败：<tornado.concurrent.Future object at 0x106280fd0>
+2019-07-01 11:40:44,951 - obtaining_domain_ns_realtime.py[line:547] - ERROR: 实时探测域名有效NS，确认探测失败：<tornado.concurrent.Future object at 0x107c8ffd0>
+2019-07-01 11:40:44,952 - obtaining_domain_ns_realtime.py[line:549] - INFO: 结束解析域名的NS记录,线程数量为:50
+2019-07-01 11:41:04,582 - obtaining_domain_ns_realtime.py[line:517] - INFO: 开始解析域名的NS记录,线程数量为:50
+2019-07-01 11:41:04,652 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 2, 剩余任务: 3
+2019-07-01 11:41:04,653 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 4, 剩余任务: 2
+2019-07-01 11:41:04,653 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 4, 剩余任务: 2
+2019-07-01 11:41:08,019 - obtaining_domain_ns_realtime.py[line:534] - INFO: 更新数据库...
+2019-07-01 11:41:08,137 - obtaining_domain_ns_realtime.py[line:536] - INFO: 更新数据库完成
+2019-07-01 11:41:08,137 - obtaining_domain_ns_realtime.py[line:538] - INFO: 存入文件...
+2019-07-01 11:41:08,138 - obtaining_domain_ns_realtime.py[line:540] - INFO: 存入文件完成
+2019-07-01 11:41:08,457 - obtaining_domain_ns_realtime.py[line:547] - ERROR: 实时探测域名有效NS，确认探测失败：<tornado.concurrent.Future object at 0x10a79afd0>
+2019-07-01 11:41:08,687 - obtaining_domain_ns_realtime.py[line:547] - ERROR: 实时探测域名有效NS，确认探测失败：<tornado.concurrent.Future object at 0x10a781e10>
+2019-07-01 11:41:08,966 - obtaining_domain_ns_realtime.py[line:547] - ERROR: 实时探测域名有效NS，确认探测失败：<tornado.concurrent.Future object at 0x108d8cfd0>
+2019-07-01 11:41:08,967 - obtaining_domain_ns_realtime.py[line:549] - INFO: 结束解析域名的NS记录,线程数量为:50
+2019-07-01 11:41:55,659 - obtaining_domain_ns_realtime.py[line:517] - INFO: 开始解析域名的NS记录,线程数量为:50
+2019-07-01 11:41:55,729 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 2, 剩余任务: 3
+2019-07-01 11:41:55,729 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 4, 剩余任务: 2
+2019-07-01 11:41:55,730 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 4, 剩余任务: 2
+2019-07-01 11:41:55,730 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 6, 剩余任务: 2
+2019-07-01 11:41:56,357 - obtaining_domain_ns_realtime.py[line:534] - INFO: 更新数据库...
+2019-07-01 11:41:56,499 - obtaining_domain_ns_realtime.py[line:536] - INFO: 更新数据库完成
+2019-07-01 11:41:56,499 - obtaining_domain_ns_realtime.py[line:538] - INFO: 存入文件...
+2019-07-01 11:41:56,500 - obtaining_domain_ns_realtime.py[line:540] - INFO: 存入文件完成
+2019-07-01 11:41:57,642 - obtaining_domain_ns_realtime.py[line:549] - INFO: 结束解析域名的NS记录,线程数量为:50
+2019-07-01 11:42:11,146 - obtaining_domain_ns_realtime.py[line:517] - INFO: 开始解析域名的NS记录,线程数量为:50
+2019-07-01 11:42:11,213 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 2, 剩余任务: 3
+2019-07-01 11:42:11,213 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 3, 剩余任务: 3
+2019-07-01 11:42:11,214 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 5, 剩余任务: 2
+2019-07-01 11:42:11,214 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 5, 剩余任务: 1
+2019-07-01 11:42:14,942 - obtaining_domain_ns_realtime.py[line:534] - INFO: 更新数据库...
+2019-07-01 11:42:15,079 - obtaining_domain_ns_realtime.py[line:536] - INFO: 更新数据库完成
+2019-07-01 11:42:15,080 - obtaining_domain_ns_realtime.py[line:538] - INFO: 存入文件...
+2019-07-01 11:42:15,081 - obtaining_domain_ns_realtime.py[line:540] - INFO: 存入文件完成
+2019-07-01 11:42:15,603 - obtaining_domain_ns_realtime.py[line:549] - INFO: 结束解析域名的NS记录,线程数量为:50
+2019-07-01 11:43:28,365 - obtaining_domain_ns_realtime.py[line:517] - INFO: 开始解析域名的NS记录,线程数量为:50
+2019-07-01 11:43:28,444 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 2, 剩余任务: 3
+2019-07-01 11:43:28,444 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 3, 剩余任务: 3
+2019-07-01 11:43:28,445 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 4, 剩余任务: 1
+2019-07-01 11:43:28,450 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 7, 剩余任务: 1
+2019-07-01 11:43:31,902 - obtaining_domain_ns_realtime.py[line:534] - INFO: 更新数据库...
+2019-07-01 11:43:32,052 - obtaining_domain_ns_realtime.py[line:536] - INFO: 更新数据库完成
+2019-07-01 11:43:32,053 - obtaining_domain_ns_realtime.py[line:538] - INFO: 存入文件...
+2019-07-01 11:43:32,054 - obtaining_domain_ns_realtime.py[line:540] - INFO: 存入文件完成
+2019-07-01 11:43:32,207 - obtaining_domain_ns_realtime.py[line:549] - INFO: 结束解析域名的NS记录,线程数量为:50
+2019-07-01 11:43:57,226 - obtaining_domain_ns_realtime.py[line:517] - INFO: 开始解析域名的NS记录,线程数量为:50
+2019-07-01 11:43:57,292 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 2, 剩余任务: 3
+2019-07-01 11:43:57,292 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 3, 剩余任务: 3
+2019-07-01 11:43:57,292 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 4, 剩余任务: 3
+2019-07-01 11:43:57,293 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 5, 剩余任务: 2
+2019-07-01 11:44:00,757 - obtaining_domain_ns_realtime.py[line:534] - INFO: 更新数据库...
+2019-07-01 11:44:00,979 - obtaining_domain_ns_realtime.py[line:536] - INFO: 更新数据库完成
+2019-07-01 11:44:00,980 - obtaining_domain_ns_realtime.py[line:538] - INFO: 存入文件...
+2019-07-01 11:44:00,980 - obtaining_domain_ns_realtime.py[line:540] - INFO: 存入文件完成
+2019-07-01 11:44:01,129 - obtaining_domain_ns_realtime.py[line:549] - INFO: 结束解析域名的NS记录,线程数量为:50
+2019-07-01 11:44:58,147 - obtaining_domain_ns_realtime.py[line:517] - INFO: 开始解析域名的NS记录,线程数量为:50
+2019-07-01 11:44:58,224 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 2, 剩余任务: 3
+2019-07-01 11:44:58,225 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 3, 剩余任务: 2
+2019-07-01 11:44:58,226 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 4, 剩余任务: 2
+2019-07-01 11:44:58,226 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 5, 剩余任务: 1
+2019-07-01 11:44:58,233 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 7, 剩余任务: 0
+2019-07-01 11:45:01,976 - obtaining_domain_ns_realtime.py[line:534] - INFO: 更新数据库...
+2019-07-01 11:45:02,065 - obtaining_domain_ns_realtime.py[line:536] - INFO: 更新数据库完成
+2019-07-01 11:45:02,066 - obtaining_domain_ns_realtime.py[line:538] - INFO: 存入文件...
+2019-07-01 11:45:02,066 - obtaining_domain_ns_realtime.py[line:540] - INFO: 存入文件完成
+2019-07-01 11:45:02,231 - obtaining_domain_ns_realtime.py[line:549] - INFO: 结束解析域名的NS记录,线程数量为:50
+2019-07-01 11:45:17,443 - obtaining_domain_ns_realtime.py[line:517] - INFO: 开始解析域名的NS记录,线程数量为:50
+2019-07-01 11:45:17,512 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 2, 剩余任务: 3
+2019-07-01 11:45:17,512 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 3, 剩余任务: 3
+2019-07-01 11:45:17,513 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 4, 剩余任务: 1
+2019-07-01 11:45:26,918 - obtaining_domain_ns_realtime.py[line:534] - INFO: 更新数据库...
+2019-07-01 11:45:27,289 - obtaining_domain_ns_realtime.py[line:536] - INFO: 更新数据库完成
+2019-07-01 11:45:27,290 - obtaining_domain_ns_realtime.py[line:538] - INFO: 存入文件...
+2019-07-01 11:45:27,290 - obtaining_domain_ns_realtime.py[line:540] - INFO: 存入文件完成
+2019-07-01 11:45:27,305 - obtaining_domain_ns_realtime.py[line:549] - INFO: 结束解析域名的NS记录,线程数量为:50
+2019-07-01 11:46:01,371 - obtaining_domain_ns_realtime.py[line:517] - INFO: 开始解析域名的NS记录,线程数量为:50
+2019-07-01 11:46:01,439 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 2, 剩余任务: 3
+2019-07-01 11:46:01,439 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 3, 剩余任务: 2
+2019-07-01 11:46:01,440 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 4, 剩余任务: 2
+2019-07-01 11:46:01,440 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 6, 剩余任务: 1
+2019-07-01 11:46:01,440 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 6, 剩余任务: 1
+2019-07-01 11:46:01,441 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 7, 剩余任务: 1
+2019-07-01 11:46:05,037 - obtaining_domain_ns_realtime.py[line:534] - INFO: 更新数据库...
+2019-07-01 11:46:05,193 - obtaining_domain_ns_realtime.py[line:536] - INFO: 更新数据库完成
+2019-07-01 11:46:05,193 - obtaining_domain_ns_realtime.py[line:538] - INFO: 存入文件...
+2019-07-01 11:46:05,198 - obtaining_domain_ns_realtime.py[line:540] - INFO: 存入文件完成
+2019-07-01 11:46:05,224 - obtaining_domain_ns_realtime.py[line:549] - INFO: 结束解析域名的NS记录,线程数量为:50
+2019-07-01 11:54:23,582 - obtaining_domain_ns_realtime.py[line:517] - INFO: 开始解析域名的NS记录,线程数量为:50
+2019-07-01 11:54:23,657 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 2, 剩余任务: 3
+2019-07-01 11:54:23,657 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 3, 剩余任务: 3
+2019-07-01 11:54:23,658 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 5, 剩余任务: 1
+2019-07-01 11:54:23,658 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 6, 剩余任务: 1
+2019-07-01 11:54:23,668 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 10, 剩余任务: 1
+2019-07-01 11:54:23,669 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 9, 剩余任务: 1
+2019-07-01 11:54:23,674 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 10, 剩余任务: 1
+2019-07-01 11:54:33,036 - obtaining_domain_ns_realtime.py[line:534] - INFO: 更新数据库...
+2019-07-01 11:54:33,124 - obtaining_domain_ns_realtime.py[line:536] - INFO: 更新数据库完成
+2019-07-01 11:54:33,124 - obtaining_domain_ns_realtime.py[line:538] - INFO: 存入文件...
+2019-07-01 11:54:33,125 - obtaining_domain_ns_realtime.py[line:540] - INFO: 存入文件完成
+2019-07-01 11:54:33,281 - obtaining_domain_ns_realtime.py[line:549] - INFO: 结束解析域名的NS记录,线程数量为:50
+2019-07-01 12:01:36,901 - obtaining_domain_ns_realtime.py[line:517] - INFO: 开始解析域名的NS记录,线程数量为:50
+2019-07-01 12:01:37,004 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 2, 剩余任务: 3
+2019-07-01 12:01:37,005 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 3, 剩余任务: 2
+2019-07-01 12:01:37,075 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 14, 剩余任务: 1
+2019-07-01 12:01:43,463 - obtaining_domain_ns_realtime.py[line:534] - INFO: 更新数据库...
+2019-07-01 12:01:43,626 - obtaining_domain_ns_realtime.py[line:536] - INFO: 更新数据库完成
+2019-07-01 12:01:43,626 - obtaining_domain_ns_realtime.py[line:538] - INFO: 存入文件...
+2019-07-01 12:01:43,628 - obtaining_domain_ns_realtime.py[line:540] - INFO: 存入文件完成
+2019-07-01 12:01:43,666 - obtaining_domain_ns_realtime.py[line:549] - INFO: 结束解析域名的NS记录,线程数量为:50
+2019-07-01 12:22:25,743 - obtaining_domain_ns_realtime.py[line:517] - INFO: 开始解析域名的NS记录,线程数量为:50
+2019-07-01 12:22:25,816 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 2, 剩余任务: 3
+2019-07-01 12:22:25,817 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 3, 剩余任务: 3
+2019-07-01 12:22:25,818 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 6, 剩余任务: 1
+2019-07-01 12:22:25,818 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 5, 剩余任务: 1
+2019-07-01 12:22:25,818 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 6, 剩余任务: 1
+2019-07-01 12:22:32,231 - obtaining_domain_ns_realtime.py[line:534] - INFO: 更新数据库...
+2019-07-01 12:22:32,358 - obtaining_domain_ns_realtime.py[line:536] - INFO: 更新数据库完成
+2019-07-01 12:22:32,358 - obtaining_domain_ns_realtime.py[line:538] - INFO: 存入文件...
+2019-07-01 12:22:32,360 - obtaining_domain_ns_realtime.py[line:540] - INFO: 存入文件完成
+2019-07-01 12:22:32,422 - obtaining_domain_ns_realtime.py[line:549] - INFO: 结束解析域名的NS记录,线程数量为:50
+2019-07-01 12:24:24,651 - obtaining_domain_ns_realtime.py[line:517] - INFO: 开始解析域名的NS记录,线程数量为:50
+2019-07-01 12:24:24,725 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 2, 剩余任务: 3
+2019-07-01 12:24:24,726 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 3, 剩余任务: 3
+2019-07-01 12:24:24,726 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 5, 剩余任务: 1
+2019-07-01 12:24:24,727 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 5, 剩余任务: 1
+2019-07-01 12:24:24,731 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 7, 剩余任务: 0
+2019-07-01 12:24:31,640 - obtaining_domain_ns_realtime.py[line:534] - INFO: 更新数据库...
+2019-07-01 12:24:31,759 - obtaining_domain_ns_realtime.py[line:536] - INFO: 更新数据库完成
+2019-07-01 12:24:31,760 - obtaining_domain_ns_realtime.py[line:538] - INFO: 存入文件...
+2019-07-01 12:24:31,761 - obtaining_domain_ns_realtime.py[line:540] - INFO: 存入文件完成
+2019-07-01 12:24:31,798 - obtaining_domain_ns_realtime.py[line:549] - INFO: 结束解析域名的NS记录,线程数量为:50
+2019-07-01 12:25:28,508 - obtaining_domain_ns_realtime.py[line:517] - INFO: 开始解析域名的NS记录,线程数量为:50
+2019-07-01 12:25:28,578 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 2, 剩余任务: 3
+2019-07-01 12:25:28,578 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 3, 剩余任务: 2
+2019-07-01 12:25:28,579 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 5, 剩余任务: 1
+2019-07-01 12:25:28,588 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 7, 剩余任务: 0
+2019-07-01 12:25:38,030 - obtaining_domain_ns_realtime.py[line:534] - INFO: 更新数据库...
+2019-07-01 12:25:38,138 - obtaining_domain_ns_realtime.py[line:536] - INFO: 更新数据库完成
+2019-07-01 12:25:38,138 - obtaining_domain_ns_realtime.py[line:538] - INFO: 存入文件...
+2019-07-01 12:25:38,139 - obtaining_domain_ns_realtime.py[line:540] - INFO: 存入文件完成
+2019-07-01 12:25:38,203 - obtaining_domain_ns_realtime.py[line:549] - INFO: 结束解析域名的NS记录,线程数量为:50
+2019-07-01 12:26:37,788 - obtaining_domain_ns_realtime.py[line:517] - INFO: 开始解析域名的NS记录,线程数量为:50
+2019-07-01 12:26:37,876 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 2, 剩余任务: 3
+2019-07-01 12:26:37,877 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 3, 剩余任务: 2
+2019-07-01 12:26:37,878 - obtaining_domain_ns_realtime.py[line:389] - INFO: 存活线程: 4, 剩余任务: 1
+2019-07-01 12:26:50,030 - obtaining_domain_ns_realtime.py[line:534] - INFO: 更新数据库...
+2019-07-01 12:26:50,111 - obtaining_domain_ns_realtime.py[line:536] - INFO: 更新数据库完成
+2019-07-01 12:26:50,112 - obtaining_domain_ns_realtime.py[line:538] - INFO: 存入文件...
+2019-07-01 12:26:50,112 - obtaining_domain_ns_realtime.py[line:540] - INFO: 存入文件完成
+2019-07-01 12:26:50,173 - obtaining_domain_ns_realtime.py[line:549] - INFO: 结束解析域名的NS记录,线程数量为:50

@@ -1,0 +1,48 @@
+name: obtaining_domain_valid_dns
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - asn1crypto=0.24.0=py27_1003
+  - backports_abc=0.5=py_0
+  - ca-certificates=2019.5.15=0
+  - certifi=2019.6.16=py27_0
+  - cffi=1.12.3=py27hccf1714_0
+  - chardet=3.0.4=py27_1003
+  - cryptography=2.7=py27h212c5bf_0
+  - dnspython=1.16.0=py27_0
+  - enum34=1.1.6=py27_1001
+  - futures=3.2.0=py27_0
+  - idna=2.8=py27_1000
+  - ipaddress=1.0.22=py_1
+  - libcxx=4.0.1=hcfea43d_1
+  - libcxxabi=4.0.1=hcfea43d_1
+  - libedit=3.1.20181209=hb402a30_0
+  - libffi=3.2.1=h475c297_4
+  - mysql-connector-c=6.1.11=hccea1a4_0
+  - mysql-python=1.2.5=py27h1de35cc_0
+  - ncurses=6.1=h0a44026_1
+  - openssl=1.1.1c=h1de35cc_1
+  - pip=19.1.1=py27_0
+  - pycparser=2.19=py27_1
+  - pyopenssl=19.0.0=py27_0
+  - pysocks=1.7.0=py27_0
+  - python=2.7.16=h97142e2_0
+  - readline=7.0=h1de35cc_5
+  - requests=2.22.0=py27_0
+  - requests-file=1.4.3=py27_0
+  - setuptools=41.0.1=py27_0
+  - singledispatch=3.4.0.3=py27he22c18d_0
+  - six=1.12.0=py27_1000
+  - sqlite=3.28.0=ha441bb4_0
+  - tk=8.6.8=ha441bb4_0
+  - tldextract=2.2.0=py_0
+  - tornado=5.1.1=py27h1de35cc_0
+  - tqdm=4.32.1=py_0
+  - urllib3=1.24.3=py27_0
+  - wheel=0.33.4=py27_0
+  - zlib=1.2.11=h1de35cc_3
+  - pip:
+    - schedule==0.6.0
+prefix: /Users/mrcheng/anaconda2/envs/obtaining_domain_valid_dns
+

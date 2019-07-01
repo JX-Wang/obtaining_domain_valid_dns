@@ -1,0 +1,121 @@
+WARNING: Executing a script that is loading libcrypto in an unsafe way. This will fail in a future version of macOS. Set the LIBRESSL_REDIRECT_STUB_ABORT=1 in the environment to force this into an error.
+Traceback (most recent call last):
+  File "../domain_ns_http/obtaining_domain_ns_realtime.py", line 23, in <module>
+    from db_manage.data_base import MySQL
+  File "../db_manage/data_base.py", line 4, in <module>
+    import MySQLdb
+  File "/Library/Python/2.7/site-packages/MySQLdb/__init__.py", line 19, in <module>
+    import _mysql
+ImportError: dlopen(/Library/Python/2.7/site-packages/_mysql.so, 2): Library not loaded: /usr/local/opt/mysql/lib/libmysqlclient.20.dylib
+  Referenced from: /Library/Python/2.7/site-packages/_mysql.so
+  Reason: image not found
+WARNING: Executing a script that is loading libcrypto in an unsafe way. This will fail in a future version of macOS. Set the LIBRESSL_REDIRECT_STUB_ABORT=1 in the environment to force this into an error.
+Traceback (most recent call last):
+  File "../domain_ns_http/obtaining_domain_ns_realtime.py", line 23, in <module>
+    from db_manage.data_base import MySQL
+  File "../db_manage/data_base.py", line 4, in <module>
+    import MySQLdb
+  File "/Library/Python/2.7/site-packages/MySQLdb/__init__.py", line 19, in <module>
+    import _mysql
+ImportError: dlopen(/Library/Python/2.7/site-packages/_mysql.so, 2): Library not loaded: /usr/local/opt/mysql/lib/libmysqlclient.20.dylib
+  Referenced from: /Library/Python/2.7/site-packages/_mysql.so
+  Reason: image not found
+WARNING: Executing a script that is loading libcrypto in an unsafe way. This will fail in a future version of macOS. Set the LIBRESSL_REDIRECT_STUB_ABORT=1 in the environment to force this into an error.
+Traceback (most recent call last):
+  File "../domain_ns_http/obtaining_domain_ns_realtime.py", line 23, in <module>
+    from db_manage.data_base import MySQL
+  File "../db_manage/data_base.py", line 4, in <module>
+    import MySQLdb
+  File "/Library/Python/2.7/site-packages/MySQLdb/__init__.py", line 19, in <module>
+    import _mysql
+ImportError: dlopen(/Library/Python/2.7/site-packages/_mysql.so, 2): Library not loaded: /usr/local/opt/mysql/lib/libmysqlclient.20.dylib
+  Referenced from: /Library/Python/2.7/site-packages/_mysql.so
+  Reason: image not found
+WARNING: Executing a script that is loading libcrypto in an unsafe way. This will fail in a future version of macOS. Set the LIBRESSL_REDIRECT_STUB_ABORT=1 in the environment to force this into an error.
+Traceback (most recent call last):
+  File "../domain_ns_http/obtaining_domain_ns_realtime.py", line 23, in <module>
+    from db_manage.data_base import MySQL
+  File "../db_manage/data_base.py", line 4, in <module>
+    import MySQLdb
+  File "/Library/Python/2.7/site-packages/MySQLdb/__init__.py", line 19, in <module>
+    import _mysql
+ImportError: dlopen(/Library/Python/2.7/site-packages/_mysql.so, 2): Library not loaded: /usr/local/opt/mysql/lib/libmysqlclient.20.dylib
+  Referenced from: /Library/Python/2.7/site-packages/_mysql.so
+  Reason: image not found
+WARNING: Executing a script that is loading libcrypto in an unsafe way. This will fail in a future version of macOS. Set the LIBRESSL_REDIRECT_STUB_ABORT=1 in the environment to force this into an error.
+Traceback (most recent call last):
+  File "../domain_ns_http/obtaining_domain_ns_realtime.py", line 23, in <module>
+    from db_manage.data_base import MySQL
+  File "../db_manage/data_base.py", line 4, in <module>
+    import MySQLdb
+  File "/Library/Python/2.7/site-packages/MySQLdb/__init__.py", line 19, in <module>
+    import _mysql
+ImportError: dlopen(/Library/Python/2.7/site-packages/_mysql.so, 2): Library not loaded: /usr/local/opt/mysql/lib/libmysqlclient.20.dylib
+  Referenced from: /Library/Python/2.7/site-packages/_mysql.so
+  Reason: image not found
+WARNING: Executing a script that is loading libcrypto in an unsafe way. This will fail in a future version of macOS. Set the LIBRESSL_REDIRECT_STUB_ABORT=1 in the environment to force this into an error.
+Traceback (most recent call last):
+  File "../domain_ns_http/obtaining_domain_ns_realtime.py", line 23, in <module>
+    from db_manage.data_base import MySQL
+  File "../db_manage/data_base.py", line 4, in <module>
+    import MySQLdb
+  File "/Library/Python/2.7/site-packages/MySQLdb/__init__.py", line 19, in <module>
+    import _mysql
+ImportError: dlopen(/Library/Python/2.7/site-packages/_mysql.so, 2): Library not loaded: /usr/local/opt/mysql/lib/libmysqlclient.20.dylib
+  Referenced from: /Library/Python/2.7/site-packages/_mysql.so
+  Reason: image not found
+WARNING: Executing a script that is loading libcrypto in an unsafe way. This will fail in a future version of macOS. Set the LIBRESSL_REDIRECT_STUB_ABORT=1 in the environment to force this into an error.
+Traceback (most recent call last):
+  File "../domain_ns_http/obtaining_domain_ns_realtime.py", line 23, in <module>
+    from db_manage.data_base import MySQL
+  File "../db_manage/data_base.py", line 4, in <module>
+    import MySQLdb
+  File "/Library/Python/2.7/site-packages/MySQLdb/__init__.py", line 19, in <module>
+    import _mysql
+ImportError: dlopen(/Library/Python/2.7/site-packages/_mysql.so, 2): Library not loaded: /usr/local/opt/mysql/lib/libmysqlclient.20.dylib
+  Referenced from: /Library/Python/2.7/site-packages/_mysql.so
+  Reason: image not found
+WARNING: Executing a script that is loading libcrypto in an unsafe way. This will fail in a future version of macOS. Set the LIBRESSL_REDIRECT_STUB_ABORT=1 in the environment to force this into an error.
+Traceback (most recent call last):
+  File "../domain_ns_http/obtaining_domain_ns_realtime.py", line 23, in <module>
+    from db_manage.data_base import MySQL
+  File "../db_manage/data_base.py", line 4, in <module>
+    import MySQLdb
+  File "/Library/Python/2.7/site-packages/MySQLdb/__init__.py", line 19, in <module>
+    import _mysql
+ImportError: dlopen(/Library/Python/2.7/site-packages/_mysql.so, 2): Library not loaded: /usr/local/opt/mysql/lib/libmysqlclient.20.dylib
+  Referenced from: /Library/Python/2.7/site-packages/_mysql.so
+  Reason: image not found
+WARNING: Executing a script that is loading libcrypto in an unsafe way. This will fail in a future version of macOS. Set the LIBRESSL_REDIRECT_STUB_ABORT=1 in the environment to force this into an error.
+2019-07-01 12:29:39,460 - ../domain_ns_http/obtaining_domain_ns_realtime.py[line:513] - INFO: 开始解析域名的NS记录,线程数量为:50
+2019-07-01 12:29:39,547 - ../domain_ns_http/obtaining_domain_ns_realtime.py[line:388] - INFO: 存活线程: 2, 剩余任务: 3
+2019-07-01 12:29:39,548 - ../domain_ns_http/obtaining_domain_ns_realtime.py[line:388] - INFO: 存活线程: 3, 剩余任务: 3
+2019-07-01 12:29:39,548 - ../domain_ns_http/obtaining_domain_ns_realtime.py[line:388] - INFO: 存活线程: 5, 剩余任务: 1
+2019-07-01 12:29:39,549 - ../domain_ns_http/obtaining_domain_ns_realtime.py[line:388] - INFO: 存活线程: 6, 剩余任务: 1
+2019-07-01 12:29:39,552 - ../domain_ns_http/obtaining_domain_ns_realtime.py[line:388] - INFO: 存活线程: 7, 剩余任务: 1
+2019-07-01 12:29:51,806 - ../domain_ns_http/obtaining_domain_ns_realtime.py[line:530] - INFO: 更新数据库...
+2019-07-01 12:29:51,886 - ../domain_ns_http/obtaining_domain_ns_realtime.py[line:532] - INFO: 更新数据库完成
+2019-07-01 12:29:51,887 - ../domain_ns_http/obtaining_domain_ns_realtime.py[line:534] - INFO: 存入文件...
+2019-07-01 12:29:51,887 - ../domain_ns_http/obtaining_domain_ns_realtime.py[line:536] - INFO: 存入文件完成
+2019-07-01 12:29:51,954 - ../domain_ns_http/obtaining_domain_ns_realtime.py[line:545] - INFO: 结束解析域名的NS记录,线程数量为:50
+baidu.com baidu.com
+ sohu.com sohu.com
+58.com 58.com
+域名: baidu.com, 异常原因：TIMEOUT
+http://10.236.105.192:8999/task_confirm/
+<Response [200]>
+WARNING: Executing a script that is loading libcrypto in an unsafe way. This will fail in a future version of macOS. Set the LIBRESSL_REDIRECT_STUB_ABORT=1 in the environment to force this into an error.
+2019-07-01 12:30:28,689 - ../domain_ns_http/obtaining_domain_ns_realtime.py[line:513] - INFO: 开始解析域名的NS记录,线程数量为:50
+2019-07-01 12:30:28,758 - ../domain_ns_http/obtaining_domain_ns_realtime.py[line:388] - INFO: 存活线程: 2, 剩余任务: 3
+2019-07-01 12:30:28,758 - ../domain_ns_http/obtaining_domain_ns_realtime.py[line:388] - INFO: 存活线程: 3, 剩余任务: 3
+2019-07-01 12:30:28,762 - ../domain_ns_http/obtaining_domain_ns_realtime.py[line:388] - INFO: 存活线程: 4, 剩余任务: 1
+2019-07-01 12:30:38,244 - ../domain_ns_http/obtaining_domain_ns_realtime.py[line:530] - INFO: 更新数据库...
+2019-07-01 12:30:38,341 - ../domain_ns_http/obtaining_domain_ns_realtime.py[line:532] - INFO: 更新数据库完成
+2019-07-01 12:30:38,342 - ../domain_ns_http/obtaining_domain_ns_realtime.py[line:534] - INFO: 存入文件...
+2019-07-01 12:30:38,342 - ../domain_ns_http/obtaining_domain_ns_realtime.py[line:536] - INFO: 存入文件完成
+2019-07-01 12:30:38,397 - ../domain_ns_http/obtaining_domain_ns_realtime.py[line:545] - INFO: 结束解析域名的NS记录,线程数量为:50
+baidu.com baidu.com
+sohu.com 58.com 58.com
+sohu.com
+http://10.236.105.192:8999/task_confirm/
+<Response [200]>

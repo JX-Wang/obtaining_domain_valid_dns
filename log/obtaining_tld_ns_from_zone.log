@@ -1,0 +1,6 @@
+2019-06-26 07:58:41,723 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_valid_dns/tld_ns/obtaining_tld_ns_from_zone.py[line:127] - INFO: 开始从根区文件中提取根和顶级域名的权威信息
+2019-06-26 07:58:41,723 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_valid_dns/tld_ns/obtaining_tld_ns_from_zone.py[line:127] - INFO: 开始从根区文件中提取根和顶级域名的权威信息
+2019-06-26 07:58:41,733 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_valid_dns/tld_ns/obtaining_tld_ns_from_zone.py[line:97] - ERROR: [Errno 2] No such file or directory: './root_zone_data/root.zone'
+2019-06-26 07:58:41,733 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_valid_dns/tld_ns/obtaining_tld_ns_from_zone.py[line:97] - ERROR: [Errno 2] No such file or directory: './root_zone_data/root.zone'
+2019-06-26 07:58:41,734 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_valid_dns/tld_ns/obtaining_tld_ns_from_zone.py[line:130] - WARNING: Root Zone文件较小，请检查是否完整后，重新运行
+2019-06-26 07:58:41,734 - /Users/mrcheng/OneDrive - stu.hit.edu.cn/Projects/obtaining_domain_valid_dns/tld_ns/obtaining_tld_ns_from_zone.py[line:130] - WARNING: Root Zone文件较小，请检查是否完整后，重新运行
