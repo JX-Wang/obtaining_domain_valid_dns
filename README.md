@@ -38,7 +38,7 @@
 ## 待优化内容
 
 ```
-conda env export > pyn_env.yml  # 将当前环境的配置生成为yml配置文件
+conda env export > pyn_env.yml  # 将当前环境的配置生成为yml配置文件 
 ```
 ```
 conda env create -f pyn_env.yml # 即可生成一样的环境
